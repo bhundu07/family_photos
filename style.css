@@ -1,0 +1,20 @@
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: darkslategrey;
+    color: aliceblue;
+    padding: 5px;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    background-color: rgb(16, 92, 94);
+    padding: 15px;
+    color: aliceblue;
+}
+
+a {
+    color: aliceblue;
+}
+
